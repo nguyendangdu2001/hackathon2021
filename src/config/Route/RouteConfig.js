@@ -1,11 +1,14 @@
+import Lookup from "@pages/Lookup";
+import RegisterVaccine from "@pages/RegisterVaccine";
 import { lazy } from "react";
 
 const Home = lazy(() => import("@pages/Home"));
 
 const Routes = [
   { path: "/", exact: true, component: Home },
-  // { path: "/login", exact: true, component: Login },
-  // { path: "/signup", exact: true, component: SignUp },
+  { path: "/register-vaccine", exact: true, component: RegisterVaccine },
+  { path: "/lookup", exact: true, component: Lookup },
+
   // {
   //   path: "/agency-dashboard",
   //   exact: true,

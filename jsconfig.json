@@ -3,15 +3,19 @@
     "module": "commonjs",
     "target": "es2017",
     "jsx": "react",
-    "allowSyntheticDefaultImports": true,
     "baseUrl": ".",
+    "allowSyntheticDefaultImports": true,
     "paths": {
       "@pages/*": ["./src/pages/*"],
       "@hooks/*": ["./src/common/hooks/*"],
+      "@icon/*": ["./src/common/components/icons/*"],
       "@components/*": ["./src/common/components/*"],
       "@action/*": ["./src/redux/action/*"],
       "@config/*": ["./src/config/*"],
-      "@helper/*": ["./src/helper/*"]
+      "@helper/*": ["./src/helper/*"],
+      "@assets/*": ["./src/assets/*"],
+      "@data/*": ["./src/data/*"],
+      "@redux/*": ["./src/redux/*"]
     }
   },
   "exclude": ["node_modules"]

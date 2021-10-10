@@ -1,0 +1,506 @@
+[
+  {
+    "value": "01",
+    "name": "Thành phố Hà Nội",
+    "shortName": "Hà Nội",
+    "type": "Thành phố Trung ương",
+    "status": 1,
+    "totalAllocated": 0
+  },
+  {
+    "value": "02",
+    "name": "Tỉnh Hà Giang",
+    "shortName": "Hà Giang",
+    "type": "Tỉnh",
+    "status": 1,
+    "totalAllocated": 0
+  },
+  {
+    "value": "04",
+    "name": "Tỉnh Cao Bằng",
+    "shortName": "Cao Bằng",
+    "type": "Tỉnh",
+    "status": 1,
+    "totalAllocated": 0
+  },
+  {
+    "value": "06",
+    "name": "Tỉnh Bắc Kạn",
+    "shortName": "Bắc Kạn",
+    "type": "Tỉnh",
+    "status": 1,
+    "totalAllocated": 0
+  },
+  {
+    "value": "08",
+    "name": "Tỉnh Tuyên Quang",
+    "shortName": "Tuyên Quang",
+    "type": "Tỉnh",
+    "status": 1,
+    "totalAllocated": 0
+  },
+  {
+    "value": "10",
+    "name": "Tỉnh Lào Cai",
+    "shortName": "Lào Cai",
+    "type": "Tỉnh",
+    "status": 1,
+    "totalAllocated": 0
+  },
+  {
+    "value": "11",
+    "name": "Tỉnh Điện Biên",
+    "shortName": "Điện Biên",
+    "type": "Tỉnh",
+    "status": 1,
+    "totalAllocated": 0
+  },
+  {
+    "value": "12",
+    "name": "Tỉnh Lai Châu",
+    "shortName": "Lai Châu",
+    "type": "Tỉnh",
+    "status": 1,
+    "totalAllocated": 0
+  },
+  {
+    "value": "14",
+    "name": "Tỉnh Sơn La",
+    "shortName": "Sơn La",
+    "type": "Tỉnh",
+    "status": 1,
+    "totalAllocated": 0
+  },
+  {
+    "value": "15",
+    "name": "Tỉnh Yên Bái",
+    "shortName": "Yên Bái",
+    "type": "Tỉnh",
+    "status": 1,
+    "totalAllocated": 0
+  },
+  {
+    "value": "17",
+    "name": "Tỉnh Hoà Bình",
+    "shortName": "Hoà Bình",
+    "type": "Tỉnh",
+    "status": 1,
+    "totalAllocated": 0
+  },
+  {
+    "value": "19",
+    "name": "Tỉnh Thái Nguyên",
+    "shortName": "Thái Nguyên",
+    "type": "Tỉnh",
+    "status": 1,
+    "totalAllocated": 0
+  },
+  {
+    "value": "20",
+    "name": "Tỉnh Lạng Sơn",
+    "shortName": "Lạng Sơn",
+    "type": "Tỉnh",
+    "status": 1,
+    "totalAllocated": 0
+  },
+  {
+    "value": "22",
+    "name": "Tỉnh Quảng Ninh",
+    "shortName": "Quảng Ninh",
+    "type": "Tỉnh",
+    "status": 1,
+    "totalAllocated": 0
+  },
+  {
+    "value": "24",
+    "name": "Tỉnh Bắc Giang",
+    "shortName": "Bắc Giang",
+    "type": "Tỉnh",
+    "status": 1,
+    "totalAllocated": 0
+  },
+  {
+    "value": "25",
+    "name": "Tỉnh Phú Thọ",
+    "shortName": "Phú Thọ",
+    "type": "Tỉnh",
+    "status": 1,
+    "totalAllocated": 0
+  },
+  {
+    "value": "26",
+    "name": "Tỉnh Vĩnh Phúc",
+    "shortName": "Vĩnh Phúc",
+    "type": "Tỉnh",
+    "status": 1,
+    "totalAllocated": 0
+  },
+  {
+    "value": "27",
+    "name": "Tỉnh Bắc Ninh",
+    "shortName": "Bắc Ninh",
+    "type": "Tỉnh",
+    "status": 1,
+    "totalAllocated": 0
+  },
+  {
+    "value": "30",
+    "name": "Tỉnh Hải Dương",
+    "shortName": "Hải Dương",
+    "type": "Tỉnh",
+    "status": 1,
+    "totalAllocated": 0
+  },
+  {
+    "value": "31",
+    "name": "Thành phố Hải Phòng",
+    "shortName": "Hải Phòng",
+    "type": "Thành phố Trung ương",
+    "status": 1,
+    "totalAllocated": 0
+  },
+  {
+    "value": "33",
+    "name": "Tỉnh Hưng Yên",
+    "shortName": "Hưng Yên",
+    "type": "Tỉnh",
+    "status": 1,
+    "totalAllocated": 0
+  },
+  {
+    "value": "34",
+    "name": "Tỉnh Thái Bình",
+    "shortName": "Thái Bình",
+    "type": "Tỉnh",
+    "status": 1,
+    "totalAllocated": 0
+  },
+  {
+    "value": "35",
+    "name": "Tỉnh Hà Nam",
+    "shortName": "Hà Nam",
+    "type": "Tỉnh",
+    "status": 1,
+    "totalAllocated": 0
+  },
+  {
+    "value": "36",
+    "name": "Tỉnh Nam Định",
+    "shortName": "Nam Định",
+    "type": "Tỉnh",
+    "status": 1,
+    "totalAllocated": 0
+  },
+  {
+    "value": "37",
+    "name": "Tỉnh Ninh Bình",
+    "shortName": "Ninh Bình",
+    "type": "Tỉnh",
+    "status": 1,
+    "totalAllocated": 0
+  },
+  {
+    "value": "38",
+    "name": "Tỉnh Thanh Hóa",
+    "shortName": "Thanh Hóa",
+    "type": "Tỉnh",
+    "status": 1,
+    "totalAllocated": 0
+  },
+  {
+    "value": "40",
+    "name": "Tỉnh Nghệ An",
+    "shortName": "Nghệ An",
+    "type": "Tỉnh",
+    "status": 1,
+    "totalAllocated": 0
+  },
+  {
+    "value": "42",
+    "name": "Tỉnh Hà Tĩnh",
+    "shortName": "Hà Tĩnh",
+    "type": "Tỉnh",
+    "status": 1,
+    "totalAllocated": 0
+  },
+  {
+    "value": "44",
+    "name": "Tỉnh Quảng Bình",
+    "shortName": "Quảng Bình",
+    "type": "Tỉnh",
+    "status": 1,
+    "totalAllocated": 0
+  },
+  {
+    "value": "45",
+    "name": "Tỉnh Quảng Trị",
+    "shortName": "Quảng Trị",
+    "type": "Tỉnh",
+    "status": 1,
+    "totalAllocated": 0
+  },
+  {
+    "value": "46",
+    "name": "Tỉnh Thừa Thiên Huế",
+    "shortName": "Thừa Thiên Huế",
+    "type": "Tỉnh",
+    "status": 1,
+    "totalAllocated": 0
+  },
+  {
+    "value": "48",
+    "name": "Thành phố Đà Nẵng",
+    "shortName": "Đà Nẵng",
+    "type": "Thành phố Trung ương",
+    "status": 1,
+    "totalAllocated": 0
+  },
+  {
+    "value": "49",
+    "name": "Tỉnh Quảng Nam",
+    "shortName": "Quảng Nam",
+    "type": "Tỉnh",
+    "status": 1,
+    "totalAllocated": 0
+  },
+  {
+    "value": "51",
+    "name": "Tỉnh Quảng Ngãi",
+    "shortName": "Quảng Ngãi",
+    "type": "Tỉnh",
+    "status": 1,
+    "totalAllocated": 0
+  },
+  {
+    "value": "52",
+    "name": "Tỉnh Bình Định",
+    "shortName": "Bình Định",
+    "type": "Tỉnh",
+    "status": 1,
+    "totalAllocated": 0
+  },
+  {
+    "value": "54",
+    "name": "Tỉnh Phú Yên",
+    "shortName": "Phú Yên",
+    "type": "Tỉnh",
+    "status": 1,
+    "totalAllocated": 0
+  },
+  {
+    "value": "56",
+    "name": "Tỉnh Khánh Hòa",
+    "shortName": "Khánh Hòa",
+    "type": "Tỉnh",
+    "status": 1,
+    "totalAllocated": 0
+  },
+  {
+    "value": "58",
+    "name": "Tỉnh Ninh Thuận",
+    "shortName": "Ninh Thuận",
+    "type": "Tỉnh",
+    "status": 1,
+    "totalAllocated": 0
+  },
+  {
+    "value": "60",
+    "name": "Tỉnh Bình Thuận",
+    "shortName": "Bình Thuận",
+    "type": "Tỉnh",
+    "status": 1,
+    "totalAllocated": 0
+  },
+  {
+    "value": "62",
+    "name": "Tỉnh Kon Tum",
+    "shortName": "Kon Tum",
+    "type": "Tỉnh",
+    "status": 1,
+    "totalAllocated": 0
+  },
+  {
+    "value": "64",
+    "name": "Tỉnh Gia Lai",
+    "shortName": "Gia Lai",
+    "type": "Tỉnh",
+    "status": 1,
+    "totalAllocated": 0
+  },
+  {
+    "value": "66",
+    "name": "Tỉnh Đắk Lắk",
+    "shortName": "Đắk Lắk",
+    "type": "Tỉnh",
+    "status": 1,
+    "totalAllocated": 0
+  },
+  {
+    "value": "67",
+    "name": "Tỉnh Đắk Nông",
+    "shortName": "Đắk Nông",
+    "type": "Tỉnh",
+    "status": 1,
+    "totalAllocated": 0
+  },
+  {
+    "value": "68",
+    "name": "Tỉnh Lâm Đồng",
+    "shortName": "Lâm Đồng",
+    "type": "Tỉnh",
+    "status": 1,
+    "totalAllocated": 0
+  },
+  {
+    "value": "70",
+    "name": "Tỉnh Bình Phước",
+    "shortName": "Bình Phước",
+    "type": "Tỉnh",
+    "status": 1,
+    "totalAllocated": 0
+  },
+  {
+    "value": "72",
+    "name": "Tỉnh Tây Ninh",
+    "shortName": "Tây Ninh",
+    "type": "Tỉnh",
+    "status": 1,
+    "totalAllocated": 0
+  },
+  {
+    "value": "74",
+    "name": "Tỉnh Bình Dương",
+    "shortName": "Bình Dương",
+    "type": "Tỉnh",
+    "status": 1,
+    "totalAllocated": 0
+  },
+  {
+    "value": "75",
+    "name": "Tỉnh Đồng Nai",
+    "shortName": "Đồng Nai",
+    "type": "Tỉnh",
+    "status": 1,
+    "totalAllocated": 0
+  },
+  {
+    "value": "77",
+    "name": "Tỉnh Bà Rịa - Vũng Tàu",
+    "shortName": "Bà Rịa - Vũng Tàu",
+    "type": "Tỉnh",
+    "status": 1,
+    "totalAllocated": 0
+  },
+  {
+    "value": "79",
+    "name": "Thành phố Hồ Chí Minh",
+    "shortName": "Hồ Chí Minh",
+    "type": "Thành phố Trung ương",
+    "status": 1,
+    "totalAllocated": 0
+  },
+  {
+    "value": "80",
+    "name": "Tỉnh Long An",
+    "shortName": "Long An",
+    "type": "Tỉnh",
+    "status": 1,
+    "totalAllocated": 0
+  },
+  {
+    "value": "82",
+    "name": "Tỉnh Tiền Giang",
+    "shortName": "Tiền Giang",
+    "type": "Tỉnh",
+    "status": 1,
+    "totalAllocated": 0
+  },
+  {
+    "value": "83",
+    "name": "Tỉnh Bến Tre",
+    "shortName": "Bến Tre",
+    "type": "Tỉnh",
+    "status": 1,
+    "totalAllocated": 0
+  },
+  {
+    "value": "84",
+    "name": "Tỉnh Trà Vinh",
+    "shortName": "Trà Vinh",
+    "type": "Tỉnh",
+    "status": 1,
+    "totalAllocated": 0
+  },
+  {
+    "value": "86",
+    "name": "Tỉnh Vĩnh Long",
+    "shortName": "Vĩnh Long",
+    "type": "Tỉnh",
+    "status": 1,
+    "totalAllocated": 0
+  },
+  {
+    "value": "87",
+    "name": "Tỉnh Đồng Tháp",
+    "shortName": "Đồng Tháp",
+    "type": "Tỉnh",
+    "status": 1,
+    "totalAllocated": 0
+  },
+  {
+    "value": "89",
+    "name": "Tỉnh An Giang",
+    "shortName": "An Giang",
+    "type": "Tỉnh",
+    "status": 1,
+    "totalAllocated": 0
+  },
+  {
+    "value": "91",
+    "name": "Tỉnh Kiên Giang",
+    "shortName": "Kiên Giang",
+    "type": "Tỉnh",
+    "status": 1,
+    "totalAllocated": 0
+  },
+  {
+    "value": "92",
+    "name": "Thành phố Cần Thơ",
+    "shortName": "Cần Thơ",
+    "type": "Thành phố Trung ương",
+    "status": 1,
+    "totalAllocated": 0
+  },
+  {
+    "value": "93",
+    "name": "Tỉnh Hậu Giang",
+    "shortName": "Hậu Giang",
+    "type": "Tỉnh",
+    "status": 1,
+    "totalAllocated": 0
+  },
+  {
+    "value": "94",
+    "name": "Tỉnh Sóc Trăng",
+    "shortName": "Sóc Trăng",
+    "type": "Tỉnh",
+    "status": 1,
+    "totalAllocated": 0
+  },
+  {
+    "value": "95",
+    "name": "Tỉnh Bạc Liêu",
+    "shortName": "Bạc Liêu",
+    "type": "Tỉnh",
+    "status": 1,
+    "totalAllocated": 0
+  },
+  {
+    "value": "96",
+    "name": "Tỉnh Cà Mau",
+    "shortName": "Cà Mau",
+    "type": "Tỉnh",
+    "status": 1,
+    "totalAllocated": 0
+  }
+]

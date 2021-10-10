@@ -15,17 +15,19 @@ import axios from "axios";
 const loadFeatures = () =>
   import("./config/framer-motion").then((res) => res.default);
 function App() {
-  axios.get("");
+  // axios.get("");
   return (
-    <LazyMotion features={loadFeatures} strict>
-      <div style={{ position: "absolute" }} id="back-to-top-anchor" />
-      <Header />
-      <ToastContainer />
-      <GetRoutes />
-      <Footer />
-      <ScrollToTop />
-      <ReactQueryDevtools initialIsOpen />
-    </LazyMotion>
+    <div className="flex flex-col min-h-screen">
+      <LazyMotion features={loadFeatures} strict>
+        <div style={{ position: "absolute" }} id="back-to-top-anchor" />
+        <Header />
+        <ToastContainer />
+        <GetRoutes />
+        <Footer />
+        <ScrollToTop />
+        <ReactQueryDevtools initialIsOpen />
+      </LazyMotion>
+    </div>
   );
 }
 
